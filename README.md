@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Johan 👋
+## Hi there. I'm Johan 👋
 
 I am a data analyst in training with a strong foundation in mathematics, statistics, and data handling using Python and SQL.
 
