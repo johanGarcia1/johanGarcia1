@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**johanGarcia1/johanGarcia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Johan 👋
 
-Here are some ideas to get you started:
+I am a data analyst in training with a strong foundation in mathematics, statistics, and data handling using Python and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Focused on building strong analytical and problem-solving skills
+- Learning and applying data analysis with Python and SQL
+- Interested in working with data across different domains, including finance
+
+## Skills
+
+- Python (Pandas, NumPy)
+- SQL
+- Data Analysis
+- Statistics
+- Mathematics
+
+## Currently
+
+- Studying mathematics and statistics
+- Learning data analysis with Python and SQL
+- Working on my first data projects
+
+## Goals
+
+- Become a professional data analyst
+- Build real-world projects that solve meaningful problems
+- Continue improving technical and analytical skills
+
+## Contact
+
+- Email: JohanGarcia.work@gmail.com
