@@ -4,16 +4,25 @@ Data Engineer & DBA in training with a passion for robust databases, Linux syste
 
 ## About Me
 
-- Focused on building high-performance, secure, and scalable database architectures.
-- Learning and applying advanced database administration (DBA) and DataOps practices.
-- Interested in backend data systems, automation, and infrastructure orchestration.
+* **Focus:** Building high-performance, secure, and scalable database architectures.
+* **Learning:** Advanced database administration (DBA) and DataOps practices.
+* **Interests:** Backend data systems, automation, and infrastructure orchestration.
 
-## Skills
+## Technical Skills
 
-- **Databases:** PostgreSQL, MySQL, SQL Server
-- **Infrastructure & DevOps:** Linux (Debian), Docker, Kubernetes
-- **Languages & Tools:** Python (Pandas, NumPy), Excel (Advanced Data Handling)
-- **Foundations:** Mathematics, Statistics, Database Design
+### Databases
+![PostgreSQL](https://shields.io) ![MySQL](https://shields.io) ![SQL Server](https://shields.io)
+
+### Infrastructure & DevOps
+![Linux](https://shields.io) ![Debian](https://shields.io) ![Docker](https://shields.io) ![Kubernetes](https://shields.io)
+
+### Languages & Data Tools
+![Python](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![Excel](https://shields.io)
+
+### Foundations
+* Mathematics
+* Statistics
+* Database Design
 
 ## Currently
 
