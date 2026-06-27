@@ -11,13 +11,13 @@ Data Engineer & DBA in training with a passion for robust databases, Linux syste
 ## Technical Skills
 
 ### Databases
-![PostgreSQL](https://shields.io) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) ![SQL Server](https://shields.io)
+![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
 
 ### Infrastructure & DevOps
-![Linux](https://shields.io) ![Debian](https://shields.io) ![Docker](https://shields.io) ![Kubernetes](https://shields.io)
+![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
 
 ### Languages & Data Tools
-![Python](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![Excel](https://shields.io)
+![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
 
 ### Foundations
 * Mathematics
