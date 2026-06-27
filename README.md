@@ -1,32 +1,31 @@
 ## Hi there. I'm Johan 👋
 
-I am a data analyst in training with a strong foundation in mathematics, statistics, and data handling using Python and SQL.
+Data Engineer & DBA in training with a passion for robust databases, Linux systems, and containerized data infrastructure.
 
 ## About Me
 
-- Focused on building strong analytical and problem-solving skills
-- Learning and applying data analysis with Python and SQL
-- Interested in working with data across different domains, including finance
+- Focused on building high-performance, secure, and scalable database architectures.
+- Learning and applying advanced database administration (DBA) and DataOps practices.
+- Interested in backend data systems, automation, and infrastructure orchestration.
 
 ## Skills
 
-- Python (Pandas, NumPy)
-- SQL
-- Data Analysis
-- Statistics
-- Mathematics
+- **Databases:** PostgreSQL, MySQL, SQL Server
+- **Infrastructure & DevOps:** Linux (Debian), Docker, Kubernetes
+- **Languages & Tools:** Python (Pandas, NumPy), Excel (Advanced Data Handling)
+- **Foundations:** Mathematics, Statistics, Database Design
 
 ## Currently
 
-- Studying mathematics and statistics
-- Learning data analysis with Python and SQL
-- Working on my first data projects
+- Mastering database optimization, indexing, and backup strategies.
+- Deploying and orchestrating data environments using Docker and Kubernetes.
+- Configuring and managing secure Linux (Debian) environments for production DBs.
 
 ## Goals
 
-- Become a professional data analyst
-- Build real-world projects that solve meaningful problems
-- Continue improving technical and analytical skills
+- Become an elite Data Engineer and Database Administrator (DBA).
+- Build production-ready, fault-tolerant data infrastructure that never goes down.
+- Bridge the gap between data engineering and modern DevOps (DataOps).
 
 ## Contact
 
